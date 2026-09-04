@@ -1,0 +1,5 @@
+import GerverSofa.KernelOnly.PartE.E24KC6KernelFinalClosure
+
+#check GerverSofa.PartE.deepMindABPhiTheta_existsUnique
+#print GerverSofa.PartE.deepMindABPhiTheta_existsUnique
+#print axioms GerverSofa.PartE.deepMindABPhiTheta_existsUnique

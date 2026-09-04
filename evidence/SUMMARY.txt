@@ -1,0 +1,11 @@
+PART_E_E24KC6 PROOF-PRODUCING TERMINAL CERTIFICATE
+original_theorems=8713
+original_pass_at_start=7803
+unresolved_at_start=910
+untrusted_discovered_terminal_nodes=21179
+effective_primitive_facts_after_checkpoint_pruning=18484
+all_8713_originals_have_provider=True
+tail_build_pass=True
+full_import_closure_files=907
+forbidden_hits=0
+kernel_only_gate=True

@@ -1,0 +1,7 @@
+module	exit_code	elapsed_seconds	status
+GerverSofa.KernelOnly.PartE.E24KC6PhiBelowReconstruct	0	133.8	PASS
+GerverSofa.KernelOnly.PartE.E24KC6PhiAboveReconstruct	0	38.5	PASS
+GerverSofa.KernelOnly.PartE.E24KC6ThetaBelowReconstruct	0	14.7	PASS
+GerverSofa.KernelOnly.PartE.E24KC6ThetaAboveReconstruct	0	23.6	PASS
+GerverSofa.KernelOnly.PartE.E24KC6KernelFinalClosure	0	13	PASS
+GerverSofa.KernelOnly.PartE.E24KC6KernelFinalAxiomAudit	0	12.8	PASS

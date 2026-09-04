@@ -1,0 +1,24 @@
+Target:
+FormalConjectures/Wikipedia/MovingSofa.lean
+namespace MovingSofa.GerversSofa
+
+Current upstream theorem:
+
+@[category textbook, AMS 49]
+theorem ABφθSpec.existsUnique : ∃! ABφθ : ℝ × ℝ × ℝ × ℝ,
+  ABφθSpec ABφθ.1 ABφθ.2.1 ABφθ.2.2.1 ABφθ.2.2.2 :=
+sorry
+
+Proposed metadata-only upstream change after publishing this external proof:
+
+@[category textbook, AMS 49,
+  formal_proof using lean4 at "<PUBLIC_STABLE_PROOF_URL>"]
+theorem ABφθSpec.existsUnique : ∃! ABφθ : ℝ × ℝ × ℝ × ℝ,
+  ABφθSpec ABφθ.1 ABφθ.2.1 ABφθ.2.2.1 ABφθ.2.2.2 :=
+sorry
+
+Replace <PUBLIC_STABLE_PROOF_URL> with the permanent URL of the public
+GerverSofaLean release/commit containing this proof.
+
+The long proof remains external; formal-conjectures CONTRIBUTING explicitly
+recommends external hosting for proofs longer than roughly 25–50 lines.
